@@ -27,9 +27,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-    </a>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/704a93544c982e1026373d15200a9b00b7f958a8b80b2757bea968af01c0fa55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"><img alt="laravel" src="https://camo.githubusercontent.com/704a93544c982e1026373d15200a9b00b7f958a8b80b2757bea968af01c0fa55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a> 
@@ -57,7 +55,6 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a> 
-    
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
