@@ -29,7 +29,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40](https://www.google.com/search?q=logo+laravel&oq=logo+laravel&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIJCAUQABgeGKkGMgkIBhAAGB4YqQYyCQgHEAAYHhipBjIJCAgQABgeGKkGMgkICRAAGB4YqQbSAQg0ODM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=QCtETyMFAs8krM&vssid=_KxZpaMaLDM7kseMP95GJgQo_44)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
