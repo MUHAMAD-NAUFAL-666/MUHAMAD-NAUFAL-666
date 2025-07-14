@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://giphy.com/gifs/AllianceDAO-alliance-programmer-dao-Npdl9kOaKFJHuRCBGx)" width="300" />
+  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
 </p>
 
 ---
