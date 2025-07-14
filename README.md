@@ -1,65 +1,74 @@
-<h1 align="center">Hi 👋, I'm Muhamad Naufal AlMuhyidin</h1>
-<h3 align="center">🚀 A Passionate Backend Engineer & Student from Karawang, Jawa Barat, Indonesia 🇮🇩</h3>
+<!-- GitHub Profile: Muhamad Naufal AlMuhyidin -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=700&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhamad+Naufal+AlMuhyidin;Backend+Engineer+%7C+Laravel+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Always+Exploring+New+Tech+%F0%9F%9A%80" alt="Typing Intro" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Laravel+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding" width="400"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 📌 About Me
-- 🌱 I’m currently learning **Laravel & Backend Development**  
-- 🧠 Focused on building scalable apps with **PHP & MySQL**  
-- 📫 Reach me at **naufal.mhmd1106@gmail.com**  
-- ☕ Fun fact: I’m a coffee-fueled night coder!
+## 👨‍💻 About Me
+- 🧠 I’m currently diving into **Laravel**, **MySQL**, and **API development**  
+- 💼 I enjoy building web-based systems that solve real-world problems  
+- 📨 Reach me anytime: **naufal.mhmd1106@gmail.com**  
+- ☕ I code better with coffee at night  
+- ⚡ Fun fact: I make backend talk like frontend 😎
 
 ---
 
-### 🌐 Connect with Me
-<p>
+## 🧠 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,codeigniter,postman,firebase,vscode,github" />
+</p>
+
+---
+
+## 🌎 Let's Connect
+<p align="center">
   <a href="https://www.linkedin.com/in/usernameanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/6281573635413" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhamad-naufal-666&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-naufal-666&theme=darkhub&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-naufal-666&theme=tokyonight" alt="GitHub Streak" />
+## 🚀 My Recent Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamad-naufal-666&bg_color=1a1b27&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-⭐ _Let’s collaborate and build something great together!_  
-🔔 _Don’t forget to follow for updates on my latest work!_
+## 🧠 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🎉 Just for Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+</p>
+
+<p align="center"><i>Let’s collaborate and build something great together!</i></p>
