@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF.gif" width="300" />
+  <img src="[https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/laravel-15177503-12317566.mp4)" width="300" />
 </p>
 
 ---
