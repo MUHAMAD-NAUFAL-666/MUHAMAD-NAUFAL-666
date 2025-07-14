@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF" width="300" />
 </p>
 
 ---
