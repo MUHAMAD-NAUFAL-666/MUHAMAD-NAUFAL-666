@@ -1,14 +1,14 @@
-<!-- GitHub Profile - Clean, Professional, Modern -->
+<!-- GitHub Profile - Clean, Modern & Backend-Focused -->
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#00BFFF">Muhamad Naufal</span></h1>
 <h3 align="center">💻 Backend Developer | Laravel Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Clean+Code+Advocate+%F0%9F%96%A5%EF%B8%8F;Always+Learning+New+Things+%F0%9F%93%9A;Building+Scalable+Web+Apps+with+Laravel+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Clean+Code+Advocate+%F0%9F%96%A5%EF%B8%8F;Always+Learning+New+Things+%F0%9F%93%9A;Building+Scalable+Web+Apps+with+Laravel+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="[https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/laravel-15177503-12317566.mp4)" width="300" />
+  <img src="https://cdn.dribbble.com/users/1028334/screenshots/6220885/dev.gif" width="300" />
 </p>
 
 ---
@@ -16,17 +16,17 @@
 ## ✨ About Me
 
 - 📍 From **Karawang, Indonesia 🇮🇩**
-- 🧠 Passionate in **Laravel**, **PHP**, **MySQL**
-- 🛠️ Love building web apps & backend systems
+- 🔭 Currently building Laravel-based systems
+- 💬 Ask me about **PHP, Laravel, REST APIs, MySQL**
 - ☕ Night coder and coffee enthusiast
 - 📫 Reach me at: **naufal.mhmd1106@gmail.com**
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,codeigniter,postman,vscode,github,firebase,figma,git,github,react,nodejs,flutter,kotlin,nextjs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,codeigniter,postman,vscode,github,git,figma,firebase,react,nodejs" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 ---
 
-## 🚀 Let's Build Together
+## 🚀 Let’s Build Something Amazing
 
 > _“Code is not just syntax, it's the language of ideas.”_
 
