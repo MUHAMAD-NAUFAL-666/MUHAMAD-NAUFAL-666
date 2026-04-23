@@ -1,99 +1,95 @@
-# 👋 Hi, I'm Naufal
 
-🚀 Backend Developer (Laravel)  
-🧠 Clean Code Enthusiast  
-⚡ Build systems that actually scale  
+   
 
-📍 Karawang, Indonesia  
+Backend Developer · Laravel Specialist · Clean Code Advocate
 
----
 
-## 🧠 About Me
 
-Backend dev yang suka mikirin:
-- gimana bikin sistem **lebih cepat**
-- gimana bikin code **lebih clean**
-- dan gimana biar project **nggak jadi legacy nightmare 😅**
+🧑‍💻 About Me
+class Naufal extends Developer{    protected string $role      = 'Backend Developer';    protected string $focus     = 'Laravel Ecosystem';    protected string $location  = 'Karawang, Indonesia';    protected string $principle = 'Write code for humans, not just machines.';    public function getDailyThoughts(): array    {        return [            'How to make this system faster?',            'How to make this code cleaner?',            'How to prevent this from becoming a legacy nightmare? 😅',        ];    }    public function getCurrentFocus(): array    {        return [            'Clean Architecture & Design Patterns',            'Performance Optimization',            'System Design — leveling up step by step',        ];    }}
+"Good code works. Great code survives."
 
-Lagi fokus di:
-- 🔥 Laravel ecosystem
-- 🧩 Clean Architecture
-- ⚡ Performance optimization
-- 🧠 System design (pelan-pelan naik level)
+⚙️ Tech Stack
+Backend	
 
-> *"Good code works. Great code survives."*
 
----
 
-## ⚙️ Tech Stack
+Frontend	
 
-💻 **Backend**  
-`PHP` `Laravel` `CodeIgniter`  
 
-🎨 **Frontend (basic)**  
-`JavaScript` `Tailwind` `Bootstrap`  
 
-🗄 **Database**  
-`MySQL` `Firebase`  
+Database	
 
-🛠 **Tools**  
-`Git` `GitHub` `Postman`  
 
-🌱 **Currently exploring**  
-`Filament` `React` `Node.js`  
+Tools	
 
----
 
-## 📊 GitHub Zone (ijo-ijo area 😎)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=muhamad-naufal-666&theme=radical" height="150"/>
-</p>
+Exploring	
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=radical" height="150"/>
-</p>
 
----
 
-## 🟢 Coding Activity (Play Snake 🐍)
 
-<p align="center">
-  <a href="https://playsnake.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </a>
-</p>
 
-<p align="center">
-  👉 Click the snake to play the game 😎
-</p>
+📊 GitHub Analytics
 
----
 
-## 🧩 What I Care About
 
-- Code yang **gampang dibaca**
-- API yang **rapi & konsisten**
-- Struktur project yang **nggak bikin pusing**
-- Dan tentunya...  
-  👉 *no spaghetti code allowed 🍝❌*
 
----
 
-## 🤝 Let's Connect
 
-- 📧 Email: naufal.mhmd1106@gmail.com  
-- 💬 WhatsApp: +62 815-7363-5413  
-- 🐙 GitHub: https://github.com/muhamad-naufal-666  
 
----
 
-## ⚡ Fun Fact
 
-Kadang bug bukan karena code jelek...  
-tapi karena kita **terlalu percaya diri waktu nulis 😭**
 
----
 
-## 🟩 Final Words
+🐍 Contribution Snake
+
+
+snake
+
+
+
+
+
+👉 Click the snake to play
+
+
+
+🧩 Principles I Build By
+#
+Principle
+Why
+1	Readable Code	Code is read 10x more than written
+2	Consistent APIs	Predictability = developer happiness
+3	Scalable Structure	Start clean, stay clean
+4	No Spaghetti	🍝❌ Future you will thank present you
+
+💬 Let's Connect
+
+Got a project in mind or just want to chat about Laravel & clean architecture?
+
+Don't hesitate to reach out.
+
+
+
+
+
+
+
+
+
+
+
+
+⚡ Fun fact: sometimes bugs aren't bad code — they're just overconfidence in action 😭
+
+
+
+
+
+
+
+
+
+```
