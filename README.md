@@ -33,70 +33,90 @@ class Naufal extends Developer
     }
 }
 
-💡 Good code works. Great code survives.
+## ⚙️ Tech Stack
 
-⚙️ Tech Stack
-🖥️ Backend
-Laravel
-PHP (OOP, MVC)
-REST API Development
-🎨 Frontend
-HTML, CSS, JavaScript
-Tailwind CSS
-Bootstrap
-🗄️ Database
-MySQL
-Database Design & Optimization
-🛠️ Tools
-Git & GitHub
-Postman
-VS Code
-Laragon / XAMPP
-🚀 Currently Exploring
-System Design
-Design Patterns
-Performance Optimization
-Scalable Architecture
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-naufal-666&theme=tokyonight" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/muhamad-naufal-666/muhamad-naufal-666/output/snake.svg" /> </p>
-
-👉 Click the snake on GitHub profile to interact
-
-🧩 Principles I Build By
-#	Principle	Why
-1	Readable Code	Code is read 10x more than written
-2	Consistent APIs	Predictability = developer happiness
-3	Scalable Structure	Start clean, stay clean
-4	No Spaghetti 🍝❌	Future you will thank present you
-💬 Let's Connect
-
-Got a project in mind, collaboration idea, or just want to talk about Laravel & clean architecture?
-
-📫 Feel free to reach out — I'm always open to discussion.
-
-⚡ Fun Fact
-
-Sometimes bugs aren't bad code —
-they're just overconfidence in action 😭
-
+**Backend:** Laravel, PHP  
+**Frontend:** HTML, CSS, JavaScript, Tailwind, Bootstrap  
+**Database:** MySQL  
+**Tools:** Git, Postman, VS Code  
 
 ---
 
-## 🔥 Perubahan yang aku lakukan
-- Struktur dibuat **rapi & profesional (section jelas)**
-- Bahasa diubah jadi lebih **natural & developer-level**
-- Tech stack dipisah (biar recruiter gampang scan)
-- Ditambah **GitHub stats** (biar keliatan aktif)
-- Table principles dirapikan
-- Tone tetap santai tapi **lebih credible**
+## 🚀 Featured Projects
+
+### 🔹 1. Klinik Management System
+**Description:**  
+Web-based system for managing patient data, medical records, and services.
+
+**Tech:** Laravel, MySQL, Bootstrap  
+**Features:**
+- Authentication (Admin, Doctor, Patient)
+- Medical records management
+- Service management
+- Dashboard system
+
+🔗 Demo: (isi link kamu)  
+📂 Repo: (isi repo kamu)
 
 ---
 
-Kalau mau, aku bisa bantu upgrade lagi jadi:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
+### 🔹 2. Digital Printing Website
+**Description:**  
+Modern web application for digital printing services with admin dashboard.
 
-Tinggal bilang aja 👍
+**Tech:** Laravel 11, Tailwind CSS  
+**Features:**
+- Product/service management
+- Order system
+- Admin dashboard
+
+🔗 Demo: (isi link kamu)  
+📂 Repo: (isi repo kamu)
+
+---
+
+### 🔹 3. Portfolio Website (Next.js)
+**Description:**  
+Interactive personal portfolio with modern UI and animations.
+
+**Tech:** Next.js, TypeScript, Tailwind  
+**Features:**
+- Smooth animation
+- Responsive design
+- Modern UI/UX
+
+🔗 Demo: (isi link kamu)  
+📂 Repo: (isi repo kamu)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 My Principles
+
+- Clean code is a priority
+- Structure before scale
+- Avoid overengineering
+- Build for long-term use
+
+---
+
+## 💬 Let's Connect
+
+Interested in working together or discussing backend development?
+
+📫 Reach me via GitHub:  
+https://github.com/muhamad-naufal-666
+
+---
+
+## ⚡ Fun Fact
+
+Sometimes bugs aren’t errors —  
+they’re just **confidence that was too high** 😅
