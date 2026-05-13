@@ -48,13 +48,13 @@
 ## ⚙️ Infra & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,grafana,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions" />
 </p>
 
 ## 🧩 Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,express" />
 </p>
 
 ## 🎨 Design & Tools
@@ -69,13 +69,19 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" 
-    height="180em" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhamad-naufal-666&theme=tokyonight"
   />
+</p>
 
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180em" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhamad-naufal-666&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhamad-naufal-666&theme=tokyonight"
   />
 </p>
 
