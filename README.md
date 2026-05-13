@@ -68,9 +68,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" 
+    height="180em" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em" 
+  />
 </p>
 
 ---
