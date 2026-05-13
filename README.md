@@ -1,65 +1,68 @@
 <h1 align="center">Hi 👋, I'm Muhamad Naufal</h1>
-<h3 align="center">A Frontend Developer & Fullstack Enthusiast from Indonesia 🇮🇩</h3>
+
+<h3 align="center">
+Frontend Developer & Fullstack Enthusiast from Indonesia 🇮🇩
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamad-naufal-666&label=Profile%20views&color=0e75b6&style=flat" alt="muhamad-naufal-666" />
+  <img src="https://komarev.com/ghpvc/?username=muhamad-naufal-666&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/muhamad-naufal-666" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <a href="https://github.com/muhamad-naufal-666">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <a href="https://instagram.com/yourinstagram">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  
-  <a href="https://instagram.com/yourinstagram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Main Stack</h3>
+# 🚀 Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,laravel,mysql,mongodb,docker,redis,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,laravel,mysql,mongodb,docker,redis,tailwind" />
 </p>
 
 ---
 
-## 🚀 Languages
+# 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,php" />
 </p>
 
-## 🗄️ Databases
+# 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
 </p>
 
-## ⚙️ Infra & DevOps
+# ⚙️ Infra & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,grafana,kafka,rabbitmq" />
 </p>
 
-## 🧩 Frameworks
+# 🧩 Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nestjs,laravel" />
 </p>
 
-## 🎨 Design & Tools
+# 🎨 Design & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode" />
 </p>
 
@@ -76,12 +79,12 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhamad-naufal-666&theme=tokyonight"
+    height="180em"
   />
-</p>
-
-<p align="center">
+  
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhamad-naufal-666&theme=tokyonight"
+    height="180em"
   />
 </p>
 
@@ -90,7 +93,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhamad-naufal-666&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=muhamad-naufal-666&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -98,32 +103,63 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-naufal-666&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=muhamad-naufal-666&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
 </p>
-
-# 💻 Currently Learning
-
-- ⚡ Next.js & TypeScript
-- 🚀 Laravel 11
-- 🎨 Advanced UI/UX Design
-- ☁️ DevOps & Deployment
-- 🤖 AI Integration
 
 ---
 
 # 📌 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚗 Bengkel Landing Page
-Website landing page modern untuk bengkel mobil menggunakan HTML, CSS, dan JavaScript.
+Modern landing page website for automotive workshop.
+
+</td>
+
+<td width="50%">
 
 ### ☕ Coffee Shop Laravel 11
-Aplikasi coffee shop modern menggunakan Laravel 11 dan Tailwind CSS.
+Modern coffee shop application using Laravel 11.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📚 Sistem Arsip Buku Tanah
-Web arsip percepatan peminjaman dan pencarian buku tanah menggunakan Laravel 11 & Filament.
+Archive and borrowing system using Laravel & Filament.
+
+</td>
+
+<td width="50%">
+
+### 🎨 Portfolio Website
+Personal portfolio with modern UI/UX and animations.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📖 Currently Learning
+
+- ⚡ Next.js & TypeScript
+- 🚀 Laravel 11
+- 🎨 Advanced UI/UX
+- ☁️ DevOps & Deployment
+- 🤖 AI Integration
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"
+  />
 </p>
