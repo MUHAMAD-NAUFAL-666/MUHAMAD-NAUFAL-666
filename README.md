@@ -17,11 +17,11 @@ Frontend Developer & Fullstack Enthusiast from Indonesia 🇮🇩
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
-  <a href="https://instagram.com/yourinstagram">
+  <a href="https://www.instagram.com/mnaufalall_/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/muhamad-naufal-678474316/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -39,7 +39,7 @@ Frontend Developer & Fullstack Enthusiast from Indonesia 🇮🇩
 # 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,php" />
 </p>
 
 # 🗄️ Databases
@@ -51,13 +51,13 @@ Frontend Developer & Fullstack Enthusiast from Indonesia 🇮🇩
 # ⚙️ Infra & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,grafana,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions" />
 </p>
 
 # 🧩 Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nestjs,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,laravel" />
 </p>
 
 # 🎨 Design & Tools
