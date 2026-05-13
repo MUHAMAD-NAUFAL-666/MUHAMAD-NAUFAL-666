@@ -65,20 +65,20 @@
 
 ---
 
-# 📊 Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-naufal-666&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-naufal-666&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-naufal-666&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=muhamad-naufal-666&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -86,10 +86,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-naufal-666&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamad-naufal-666&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
 
 # 💻 Currently Learning
 
